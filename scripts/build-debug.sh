@@ -137,7 +137,7 @@ EOF
     die "No active Android build configuration detected in ${ROOT_DIR}.
 Expected either:
   - A Gradle project (settings.gradle.kts / build.gradle.kts / app/), or
-  - A full Chromium/Ultimatum checkout with build/ and depot_tools (gn + autoninja/ninja) on PATH."
+  - A full Momentum (Chromium) checkout with build/ and depot_tools (gn + autoninja/ninja) on PATH."
     ;;
 esac
 

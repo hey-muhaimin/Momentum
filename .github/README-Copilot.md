@@ -1,4 +1,4 @@
-# ![Logo](../chrome/app/theme/chromium/product_logo_64.png) Ultimatum
+# Momentum
 
 Note: This README file is intentionally NOT named /.github/README.md to avoid
 replacing the root level [README.md](../README.md) on

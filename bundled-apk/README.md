@@ -1,6 +1,6 @@
-# Bundled APKs
+# Momentum Bundled APKs
 
-This directory holds compiled, signed, and packaged APK/AAB artifacts produced by the build scripts in `../scripts/`.
+This directory holds compiled, signed, and packaged Momentum APK/AAB artifacts produced by the build scripts in `../scripts/`.
 
 ## Layout
 
